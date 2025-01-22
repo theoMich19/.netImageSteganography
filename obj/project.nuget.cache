@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tR/jXrm//Ww=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theom\\git\\dotNet\\ImageSteganography\\ImageSteganography.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theom\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.1\\microsoft.win32.systemevents.9.0.1.nupkg.sha512",
+    "C:\\Users\\theom\\.nuget\\packages\\system.drawing.common\\9.0.1\\system.drawing.common.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
